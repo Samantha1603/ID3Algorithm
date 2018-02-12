@@ -1,0 +1,5 @@
+Outlook,Categorical,Sunny,Overcast,Rain
+Temperature,Categorical,Hot,Mild,Cool
+Humidity,Categorical,High,Normal,
+Wind,Categorical,Weak,Strong,
+Target,Yes,No,,
